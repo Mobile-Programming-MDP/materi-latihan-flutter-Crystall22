@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: ProfileScreen(),
+      home: SignInScreen(),
       //home: DetailScreen(candi: candiList[0]),
     );
   }
