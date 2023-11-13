@@ -12,7 +12,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
   bool isSignIn = false;
   String fullName = "Muhyi Haadi Sewithto";
   String userName = "Hase";
-  int favoriteCandiCount = 0;
+  int favoriteCandiCount = 2;
 
   @override
   Widget build(BuildContext context) {
